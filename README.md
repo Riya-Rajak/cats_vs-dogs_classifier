@@ -46,3 +46,6 @@ Predicted Class: Dog
 ### Cat Image
 Prediction Score: 0.2204
 Predicted Class: Cat
+
+## Author
+Riya Rajak
